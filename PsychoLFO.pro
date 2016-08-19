@@ -1,6 +1,6 @@
-update=Wednesday, 02 December 2015 19:34:12
+update=Friday, 29 July 2016 07:08:59 am
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -50,7 +50,7 @@ PageLayoutDescrFile=
 SubpartIdSeparator=0
 SubpartFirstId=65
 LibDir=
-NetFmtName=
+NetFmtName=PcbnewAdvanced
 RptD_X=0
 RptD_Y=100
 RptLab=1
@@ -87,3 +87,13 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=/Users/que/Documents/Electronics/DQM_kicad/DQM
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
